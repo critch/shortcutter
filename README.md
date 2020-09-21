@@ -1,0 +1,3 @@
+This is a simple script bookmark to try and make getting to certain objects easier.
+
+<a href="javascript:!function(){let a=document.createElement(&quot;script&quot;);a.setAttribute(&quot;src&quot;, &quot;https://raw.githubusercontent.com/jsFile/jsFile/master/karma.conf.js&quot;);document.body.appendChild(a)}();"><button>This is the bookmark button</button></a>
